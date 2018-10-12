@@ -1,0 +1,7 @@
+User-agent: *
+
+Allow: /
+
+Crawl-delay: 86400
+
+Sitemap: https://cat-stories.tk/sitemap.xml

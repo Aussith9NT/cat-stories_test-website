@@ -1,0 +1,126 @@
+@charset 'UTF-8';
+
+@import url('../fonts/fonts.css');
+
+p {
+  width: 640px;
+}
+
+ul {
+  font-size: 29px;
+  line-height: 20px;
+  text-align: center;
+  font-family: 'Sawasdee', sans-serif;
+	font-weight: 600;
+	text-color: gray;
+}
+
+html {
+	background-color: #aff7e0;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+	margin: 0;
+  padding: 10px 0;    
+  color: #031738;
+  text-shadow: 5px 4px 10px grey;
+}
+
+h3 {
+  font-size: 45px;
+  text-align: center;
+  font-family: 'Merriweather', sans-serif;
+	margin: 0;
+  padding: 20px 0;    
+  color: #568ce2;
+  text-shadow: 3px 3px 10px black;
+}
+
+h2 {
+  font-size: 40px;
+  text-align: center;
+}
+
+#slogan {
+	font-family: 'MerriweatherLight';
+	font-style: italic;
+}
+
+h4 {
+  font-size: 30px;
+  text-align: center;
+	font-family: 'LatoLatinWebThin', sans-serif;
+	font-style: italic;
+	padding: 5px 20px;
+	margin: 20px 0 30px 0;
+}
+
+#language:hover {
+	font-family: 'LatoLatinWebLight';
+	font-style: italic;
+	font-size: 32px;
+	text-shadow: 4px 3px 7px #77aac1;
+	padding: 5px 20px 3px 20px;
+}
+
+body {
+	width: 637px;
+	margin: 0 auto;
+	padding: 0 20px 0 20px;
+}
+
+header {
+	border: 2.5px solid black;
+	margin: 0 20px 20px 0;
+	padding: 0 20px 20px 20px;
+	background-color: #f2b5f0;
+	width: 637px;
+	height: 590px;
+}
+
+section {
+	border: 2.5px solid black;
+	margin: 0 auto;
+	padding: 0 20px 20px 20px;
+	background-color: #f2b5f0;
+	width: 637px;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+	border: 1px solid grey;
+}
+
+a {
+	color: #77aac1;
+	text-decoration: initial;
+}
+
+a:hover {
+	color: #0f9fb1;
+	font-style: italic;
+	font-size: 30px;
+	background-color: #d4a0d2;
+	box-shadow: 11px 6px 9px 3px #d4a0d2;
+	border: 0.1px solid grey;
+	padding: 1px 1px 1px 1px;
+}
+
+a:active {
+	color: #8377c1;
+}
+
+li {
+	line-height: 25px;
+}
+
+#foo {
+	font-size: 14px;
+	text-align: center;
+	padding: 10px 0 0 0;
+	margin-bottom: 0px;
+}

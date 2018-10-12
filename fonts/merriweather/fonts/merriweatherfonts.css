@@ -1,0 +1,82 @@
+@charset 'utf-8';
+
+/*Merriweather-Regular*/
+@font-face {
+	font-family: 'Merriweather';
+	src: url('ttf/Merriweather-Regular.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+	text-rendering: optimizeLegibility;
+}
+
+/*Merriweather-Black*/
+@font-face {
+	font-family: 'MerriweatherBlack';
+	src: url('ttf/Merriweather-Black.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+	text-rendering: optimizeLegibility;
+}
+
+/*Merriweather-BlackItalic*/
+@font-face {
+	font-family: 'MerriweatherBlack';
+	src: url('ttf/Merriweather-BlackItalic.ttf') format('truetype');
+	font-style: italic;
+	font-weight: normal;
+	text-rendering: optimizeLegibility;
+}
+
+/*Merriweather-Bold*/
+@font-face {
+	font-family: 'MerriweatherBold';
+	src: url('ttf/Merriweather-Bold.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+	text-rendering: optimizeLegibility;
+}
+
+/*Merriweather-BoldItalic*/
+@font-face {
+	font-family: 'MerriweatherBold';
+	src: url('ttf/Merriweather-BoldItalic.ttf') format('truetype');
+	font-style: italic;
+	font-weight: normal;
+	text-rendering: optimizeLegibility;
+}
+
+/*Merriweather-Italic*/
+@font-face {
+	font-family: 'Merriweather';
+	src: url('ttf/Merriweather-Italic.ttf') format('truetype');
+	font-style: italic;
+	font-weight: normal;
+	text-rendering: optimizeLegibility;
+}
+
+/*Merriweather-Light*/
+@font-face {
+	font-family: 'MerriweatherLight';
+	src: url('ttf/Merriweather-Light.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+	text-rendering: optimizeLegibility;
+}
+
+/*Merriweather-LightItalic*/
+@font-face {
+	font-family: 'MerriweatherLight';
+	src: url('ttf/Merriweather-LightItalic.ttf') format('truetype');
+	font-style: italic;
+	font-weight: normal;
+	text-rendering: optimizeLegibility;
+}
+
+/*MerriweatherVFBeta*/
+@font-face {
+	font-family: 'MerriweatherVF';
+	src: url('VFBeta/MerriweatherVFBeta.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+	text-rendering; optimizeLegibility;
+}

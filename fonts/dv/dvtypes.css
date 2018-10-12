@@ -1,0 +1,55 @@
+@charset 'utf-8';
+
+/*DejaVuSerif*/
+@font-face {
+	font-family: 'DejaVu-Serif';
+	src: url('dv-serif.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+	text-rendering; optimizeLegibility;
+}
+
+/*DejaVuSerif-Bold*/
+@font-face {
+	font-family: 'DejaVu-SerifBold';
+	src: url('dv-serif.ttf') format('truetype');
+	font-style: normal;
+	font-weight: bold;
+	text-rendering; optimizeLegibility;
+}
+
+/*DejaVuSerif-Italic*/
+@font-face {
+	font-family: 'DejaVu-SerifItalic';
+	src: url('dv-serif.ttf') format('truetype');
+	font-style: italic;
+	font-weight: normal;
+	text-rendering; optimizeLegibility;
+}
+
+/*DejaVuSerif-Light*/
+@font-face {
+	font-family: 'DejaVu-SerifLight';
+	src: url('dv-serif.ttf') format('truetype');
+	font-style: normal;
+	font-weight: light;
+	text-rendering; optimizeLegibility;
+}
+
+/*DejaVuSerif-BoldItalic*/
+@font-face {
+	font-family: 'DejaVu-SerifBold';
+	src: url('dv-serif.ttf') format('truetype');
+	font-style: italic;
+	font-weight: bold;
+	text-rendering; optimizeLegibility;
+}
+
+/*DejaVuSerif-LightItalic*/
+@font-face {
+	font-family: 'DejaVu-SerifLight';
+	src: url('dv-serif.ttf') format('truetype');
+	font-style: italic;
+	font-weight: light;
+	text-rendering; optimizeLegibility;
+}

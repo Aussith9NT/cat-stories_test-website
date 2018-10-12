@@ -1,0 +1,104 @@
+@charset 'UTF-8';
+
+@import url('../../fonts/fonts.css');
+
+p {
+  width: 640px;
+}
+
+ul {
+  border: 2.5px solid grey;
+}
+
+html {
+  font-size: 10px;
+	background-color: #aff7e0;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  font-family: 'LatoLatinWebMedium', sans-serif;
+	margin: 0;
+  padding: 10px 0;    
+  color: #031738;
+  text-shadow: 5px 4px 10px grey;
+}
+
+h3 {
+  font-size: 45px;
+  text-align: center;
+  font-family: 'LatoLatinWebSemibold', sans-serif;
+	margin: 0;
+  padding: 20px 0;    
+  color: #568ce2;
+  text-shadow: 3px 3px 10px black;
+}
+
+h2 {
+  font-size: 40px;
+  text-align: center;
+}
+
+h4 {
+  font-size: 30px;
+  text-align: center;
+	padding: 0 20px;
+}
+
+body {
+	width: 637px;
+	margin: 0 auto;
+	background-color: #f2b5f0;
+	padding: 0 20px 0 20px;
+	border: 2.5px solid black;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+	border: 1px solid grey;
+}
+
+p,li {
+  font-size: 16px;
+  line-height: 20px;
+  text-align: justify;
+  font-family: 'Merriweather', serif;
+}
+
+button {
+	font-family: 'Merriweather', serif;
+}
+
+#botonPerfil {
+	position: absolute;
+	right: 25%;
+}
+
+a {
+	color: #77aac1;
+	text-decoration: initial;
+	font-family: 'MerriweatherLight';
+}
+
+a:hover {
+	color: #0f9fb1;
+	font-family: 'MerriweatherBold';
+	text-decoration: underline;
+}
+
+a:active {
+	color: #8377c1;
+}
+
+li {
+	line-height: 25px;
+}
+
+#foo {
+	font-size: 12px;
+	text-align: center;
+	padding: 25px 0 0 0;
+	margin-bottom: 0px;
+}
